@@ -207,11 +207,12 @@ This project is licensed under the MIT License.
 
 ---
 
-#👩‍💻 Team Members
-Radhika (2022d1r017)
-SandeepYadhav (2022d1r019)
-Brithik Anthal (2022d1r020)
-Aryan Mangotra (2022d1r008)
+# 👩‍💻 Team Members
+
+- **Radhika Manhas** — 2022D1R017  
+- **Sandeep Yadhav** — 2022D1R019  
+- **Brithik Anthal** — 2022D1R020  
+- **Aryan Mangotra** — 2022D1R008  
 
 
 # 🙏 Acknowledgments
